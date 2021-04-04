@@ -264,6 +264,7 @@ td, th {
 
  	nav {
  		position: static;
+ 		text-align: center;
  	}
 
  	.lista-beneficios, .imgbeneficios, .input-padrao, .enviar {
